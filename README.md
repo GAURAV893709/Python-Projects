@@ -1,2 +1,3 @@
-# Python-Projects
-My Python Programming Projects
+# Face Recognition Attendance System
+
+The Face Recognition Attendance System is a Python-based application designed to automate the student or employee attendance process using facial recognition technology. The system uses OpenCV for face detection and the Local Binary Patterns Histogram (LBPH) algorithm for face recognition. It captures images through a webcam, identifies registered individuals, and records their attendance automatically. The application helps reduce manual attendance work, saves time, minimizes errors, and provides a simple and efficient way to manage attendance. It also includes features for registering new users, training the face recognition model, and recognizing registered faces in real time.
